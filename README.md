@@ -10,4 +10,4 @@ I particularly enjoy working with people from diverse cultures and backgrounds. 
 
 Please reach out to me for research collaborations or if you have any questions! (tianyuan.lu@mail.mcgill.ca or tianyuan.lu@utoronto.ca)
 
-#### Check my CV
+#### [Check my CV](https://github.com/tianyuan-lu/tianyuan-lu/blob/main/CV-academic-TianyuanLu.pdf)
