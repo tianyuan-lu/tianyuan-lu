@@ -6,7 +6,7 @@ I am an incoming assistant professor in the [Department of Population Health Sci
 
 My research focuses on developing and implementing rigorous statistical genetics and genetic epidemiology methods to improve the prevention, diagnosis, and treatment of complex diseases, and translating research findings into new medical care approaches and therapies. I strive to conduct research from which all members of society can benefit.
 
-I particularly enjoy working with people from diverse cultures and backgrounds. Hundreds of collaborators, including but not limited to medical doctors, statisticians, epidemiologists, biologists, informaticians, etc. have made indispensable contributions to my [works](https://scholar.google.ca/citations?user=hBnK0YAAAAAJ&hl=en).
+I particularly enjoy working with people from diverse cultures and backgrounds. Hundreds of collaborators, including but not limited to medical doctors, statisticians, epidemiologists, biologists, and informaticians have made indispensable contributions to my [works](https://scholar.google.ca/citations?user=hBnK0YAAAAAJ&hl=en).
 
 Please reach out to me for research collaborations or if you have any questions! (tianyuan.lu@mail.mcgill.ca or tianyuan.lu@utoronto.ca)
 
